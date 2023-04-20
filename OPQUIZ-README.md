@@ -4,7 +4,7 @@ A game I developed for Apulia Cosplay using Unity (game engine) and VSC (C#).
 
 
 I uploaded code about quiz working mechanics.
-After Intro has played, game starts 4 seconds after clicking "Inizia" button.
+After Intro has played, game starts 4 seconds after clicking start button.
 Main characters in this game mechanics are GameManager and QuizCanvas. 
 For each question to be charged, GameManager selects a random question type ( A, B or C)
 and a random question index. Each question has a fixed associate background.
