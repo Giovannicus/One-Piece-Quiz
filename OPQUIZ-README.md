@@ -1,5 +1,5 @@
 # One-Piece-Quiz
-A game I developed for Apulia Cosplay using Unity (game engine) and VSC (C#). 
+A game I developed using Unity (game engine) and VSC (C#). 
 
 
 I uploaded code about quiz working mechanics.
