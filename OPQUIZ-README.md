@@ -19,7 +19,7 @@ C type questions require an input answer in a dedicated form. Pressing return it
 
 The form gets green if the typed answer is right or red if the answer is wrong.
 
-Next question is loaded when player click on a sun shape button.
+Next question is loaded when player clicks on the sun shape button.
 
 When number of desired questions is reached, End screen appears.
 
